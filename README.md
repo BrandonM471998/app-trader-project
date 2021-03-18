@@ -1,5 +1,5 @@
 # app-trader-project
-All analysis work was done in PostgreSQL and our team used the query results to create a presentation in PowerPoint. Our team included two "Brandons" including myself. To see my work, please choose the [`brandon`](https://github.com/BrandonM471998/app-trader-project/blob/brandon/README.md) branch.
+All analysis work was done in PostgreSQL and our team used the query results to create a presentation in PowerPoint. Our team included two "Brandons" including myself.
 # Introduction
 Our team was assigned to finding 10 apps to market for a company called App Trader. App Trader is an advertising company that will buy the rights to market apps for a set price per month. App Trader will keep half of the revenue gained from in-app purchases made during the months they market those apps. App Trader wanted apps that were both on the Play Store for Android devices and the App Store for iOS devices so that their advertising costs would be less.
 # Walkthrough
