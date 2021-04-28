@@ -5,8 +5,10 @@ Our team was assigned to finding 10 apps to market for a company called App Trad
 # Walkthrough
   1. Our team was given two tables containing all of the apps available on both storefronts, which had no table key
   2. We decided to join the tables on the name column and filter through a `FULL JOIN`
+
+![Full Join](./assets/full_join.jpg)
+
   3. As a team we concluded that of the apps available, the best apps to choose would be entertainment/games with a high star rating, as they are the most popular
   4. After finding our top 10 apps, our teammate R. Brandon Cantrell created a PowerPoint Presentation to show App Trader our findings
 
-
-Click here for PowerPoint Presentation: [Top 10.pptx](https://github.com/BrandonM471998/app-trader-project/files/6119414/Top.10.pptx)
+Click here for the PowerPoint Presentation: [Top 10 Presentation](presentation/App_Trader_Top_10.pdf)
